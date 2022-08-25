@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "https://alankaler.co.il", // Site domain. Do not include a trailing slash!
+  siteUrl: "https://yamus.co.il", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "alankaler", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "yamus", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "alankaler", // This allows an alternative site description for meta data for pages.
+    "yamus", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "alankaler", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "yamus", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "alankaler",
+    title: "yamus",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://alankaler.co.il/",
+        url: "https://yamus.co.il/",
       },
       {
         label: "יצירת קשר",
-        url: "https://alankaler.co.il/contact",
+        url: "https://yamus.co.il/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://alankaler.co.il/",
+        url: "https://yamus.co.il/",
       },
       {
         label: "Sitemap",
-        url: "https://alankaler.co.il/sitemap.xml",
+        url: "https://yamus.co.il/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://alankaler.co.il/contact",
+        url: "https://yamus.co.il/contact",
       },
      
     ],
@@ -70,7 +70,7 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "alankaler",
+    title: "yamus",
     description:
       "alankaler",
   },
@@ -82,13 +82,13 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "yarokaz",
+    title: "yamus",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "alankaler",
+  siteTitle: "yamus",
   siteDescription:
     "alankaler",
   language: "he",
